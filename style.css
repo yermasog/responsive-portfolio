@@ -1,3 +1,6 @@
+body {background-image:url(assets/pexels-miguel-á-padriñán-19670.jpg); 
+}
+
 .my-color {background-color: rgb(133, 238, 241) !important;
 }
 
@@ -5,25 +8,10 @@
            padding: 20px;
            margin-top: 50px;
            margin-left: 50px;
-           width: 60%;
-           
+           width: 60%;          
 }
 
-.port-img {padding-left: 30px;
-           padding-top: 20px;
-           padding-bottom: 40px;
-           padding-right: 20px; 
-           height: 350px;
-           width: 350px;
-}
-
-h1 {padding-left: 30px;}
-
-.form {padding-left: 30px;
-}
-
-body {background-image:url(assets/pexels-miguel-á-padriñán-19670.jpg);
-      
+h1 {padding-left: 30px;
 }
 
 .img-container {width: 100%;
@@ -35,4 +23,16 @@ body {background-image:url(assets/pexels-miguel-á-padriñán-19670.jpg);
           width: 50%;
           padding-right: 30px;
 }
+.port-img {padding-left: 30px;
+           padding-top: 20px;
+           padding-bottom: 40px;
+           padding-right: 20px; 
+           height: 350px;
+           width: 350px;
+}
+
+.form {padding-left: 30px;
+}
+
+
 
